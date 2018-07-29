@@ -1,4 +1,4 @@
-# Orders
+# Order Status
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship.
 
@@ -6,7 +6,9 @@ If you see "combined with" with an order that still exists, this is still unmerg
 
 Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-This page was last generated on July 29, 2018 at 2:48 PM
+This page was last generated on July 29, 2018 at 3:36 PM
+
+The Github repo for this page is available here: https://github.com/olkb/orders
 
  1. 100004782
  2. 100004783
