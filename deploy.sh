@@ -11,15 +11,16 @@ if [ "${TRAVIS_PULL_REQUEST}"  != "false" ]; then
   exit 0;
 fi
 
-git checkout master
-git add README.md
-git commit -m "Update order statuses [skip ci]"
-
 if [ ! -f .env ]; then
 	# inside this git repo we'll pretend to be a new user
 	git config user.name "OLKB Bot"
 	git config user.email "hello@olkb.com"
 fi
+
+git checkout master
+git add README.md
+git commit -m "Update order statuses [skip ci]"
+
 
 # The first and only commit to this new Git repo contains all the
 # files present with the commit message "Deploy to GitHub Pages".
