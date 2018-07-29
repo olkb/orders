@@ -6,9 +6,9 @@ If you see "combined with" with an order that still exists, this is still unmerg
 
 Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-This page was last generated on {{formatDate date day="numeric" month="long" year="numeric"}} at {{formatDate date hour="numeric" minute="numeric"}}
+*This page was last generated on {{formatDate date day="numeric" month="long" year="numeric"}} at {{formatDate date hour="numeric" minute="numeric"}}*
 
-The Github repo for this page is available here: https://github.com/olkb/orders
+*The Github repo for this page is available here: https://github.com/olkb/orders*
 
 {{#each orders}}
  {{math @index "+" 1}}. {{this.orderNumber}}{{combinedOrders this " combined with "}}
