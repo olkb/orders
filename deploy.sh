@@ -12,9 +12,9 @@ if [ "${TRAVIS_PULL_REQUEST}"  != "false" ]; then
 fi
 
 if [ ! -f .env ]; then
-	# rm -rf .git
-	# git init
-	# git remote add origin https://github.com/${TRAVIS_REPO_SLUG}
+	rm -rf .git
+	git init
+	git remote add origin https://github.com/${TRAVIS_REPO_SLUG}
 
 	# inside this git repo we'll pretend to be a new user
 	git config user.name "OLKB Bot"
@@ -24,7 +24,7 @@ fi
 # The first and only commit to this new Git repo contains all the
 # files present with the commit message "Deploy to GitHub Pages".
 git add README.md
-git commit -m "Update order statuses [skip ci]"
+git commit -am "Update order statuses [skip ci]"
 
 # Force push from the current repo's dev branch to the remote github.io
 # repo's gh-pages branch. (All previous history on the gh-pages branch
