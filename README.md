@@ -6,7 +6,7 @@ If you see "combined with" with an order that still exists, this is still unmerg
 
 Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on July 29, 2018 at 4:06 PM EDT*
+*This page was last generated on July 29, 2018 at 8:27 PM EST and is updated daily*
 
 *The Github repo for this page is available here: https://github.com/olkb/orders*
 
@@ -736,3 +736,4 @@ Any orders that are displayed as ##########-1 were split off of the main order f
  724. 100005573
  725. 100005574
  726. 100005575
+ 727. 100005576
