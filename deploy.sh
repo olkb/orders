@@ -12,9 +12,9 @@ if [ "${TRAVIS_PULL_REQUEST}"  != "false" ]; then
 fi
 
 if [ ! -f .env ]; then
-	# rm -rf .git
-	# git init
-	# git remote add origin https://github.com/${TRAVIS_REPO_SLUG}
+	rm -rf .git
+	git init
+	git remote add origin https://github.com/${TRAVIS_REPO_SLUG}
 	git pull
 
 	# inside this git repo we'll pretend to be a new user
