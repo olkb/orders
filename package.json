@@ -9,10 +9,10 @@
 	},
 	"main": "script.js",
 	"dependencies": {
-		"dotenv": "latest",
-		"sync-request": "latest",
-		"fs": "latest",
-		"handlebars": "latest",
-		"handlebars-intl": "latest"
+		"dotenv": "6.0.0",
+		"sync-request": "6.0.0",
+		"fs": "0.0.1-security",
+		"handlebars": "4.0.11",
+		"handlebars-intl": "1.1.2"
 	}
 }
