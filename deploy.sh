@@ -12,6 +12,8 @@ if [ "${TRAVIS_PULL_REQUEST}"  != "false" ]; then
 fi
 
 if [ ! -f .env ]; then
+	git pull origin master
+
 	# inside this git repo we'll pretend to be a new user
 	git config user.name "OLKB Bot"
 	git config user.email "hello@olkb.com"
@@ -19,7 +21,7 @@ fi
 
 # The first and only commit to this new Git repo contains all the
 # files present with the commit message "Deploy to GitHub Pages".
-git add README.md
+git add .
 git commit -m "Update order statuses [skip ci]"
 
 # Force push from the current repo's dev branch to the remote github.io
