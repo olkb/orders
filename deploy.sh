@@ -12,9 +12,6 @@ if [ "${TRAVIS_PULL_REQUEST}"  != "false" ]; then
 fi
 
 if [ ! -f .env ]; then
-	rm -rf .git
-	git init
-
 	# inside this git repo we'll pretend to be a new user
 	git config user.name "OLKB Bot"
 	git config user.email "hello@olkb.com"
