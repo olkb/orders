@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e # exit with nonzero exit code if anything fails
 
-if [ ! -f .env ]; then
+if [ -f .env ]; then
 	export $(egrep -v '^#' .env | xargs)
 fi
 
