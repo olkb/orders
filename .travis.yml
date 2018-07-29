@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "stable"
+install: npm install
+env:
+  - AUTH_KEY=$AUTH_KEY
+script: node script.js
