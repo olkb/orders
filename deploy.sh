@@ -14,8 +14,6 @@ fi
 if [ ! -f .env ]; then
 	rm -rf .git
 	git init
-	git remote add origin https://github.com/${TRAVIS_REPO_SLUG}
-	git pull origin master
 
 	# inside this git repo we'll pretend to be a new user
 	git config user.name "OLKB Bot"
