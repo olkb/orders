@@ -2,7 +2,7 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on August 16, 2018 at 2:53 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on August 17, 2018 at 2:53 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004782
  2. 100004783
@@ -727,25 +727,27 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  721. 100005631
  722. 100005633
  723. 100005635
- 724. 100005636
- 725. 100005637
- 726. 100005638
- 727. 100005639
- 728. 100005640
- 729. 100005641
- 730. 100005642
- 731. 100005643
- 732. 100005644
- 733. ATARI-1
- 734. 100005645
- 735. 100005646
- 736. 100005647
- 737. 100005648
- 738. 100005649
- 739. 100005650
- 740. 100005651
- 741. 100005652
- 742. 100005653
- 743. 100005655
- 744. 100005656
- 745. 100005657
+ 724. 100005637
+ 725. 100005638
+ 726. 100005639
+ 727. 100005640
+ 728. 100005641
+ 729. 100005642
+ 730. 100005643
+ 731. 100005644
+ 732. ATARI-1
+ 733. 100005645
+ 734. 100005646
+ 735. 100005647
+ 736. 100005648
+ 737. 100005649
+ 738. 100005650
+ 739. 100005651
+ 740. 100005652
+ 741. 100005653
+ 742. 100005655
+ 743. 100005656
+ 744. 100005657
+ 745. 100005658
+ 746. 100005659
+ 747. 100005660
