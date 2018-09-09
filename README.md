@@ -2,7 +2,7 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on September 8, 2018 at 3:07 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on September 9, 2018 at 3:04 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004810
  2. 100004813 combined with 100005421
@@ -678,20 +678,24 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  672. 100005798
  673. 100005799
  674. 100005800
- 675. 100005801
- 676. 100005802
- 677. 100005803
- 678. 100005804
- 679. 100005805
- 680. 100005806
- 681. 100005807
- 682. 100005808
- 683. 100005809
- 684. 100005810
- 685. 100005811
- 686. 100005812
- 687. 100005813
- 688. 00001-TARPIT
- 689. 00001-MECHBOARDSCOUK
- 690. 00001-WOODKEYSCLICK
- 691. 100005814
+ 675. 100005802
+ 676. 100005803
+ 677. 100005804
+ 678. 100005805
+ 679. 100005806
+ 680. 100005807
+ 681. 100005808
+ 682. 100005809
+ 683. 100005810
+ 684. 100005811
+ 685. 100005812
+ 686. 00001-TARPIT
+ 687. 00001-MECHBOARDSCOUK
+ 688. 00001-WOODKEYSCLICK
+ 689. 100005814
+ 690. 100005815
+ 691. 100005817
+ 692. 100005818
+ 693. 100005819
+ 694. 100005820
+ 695. 100005821
