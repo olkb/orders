@@ -2,7 +2,7 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on September 21, 2018 at 3:11 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on September 22, 2018 at 3:12 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004816
  2. 100004820
@@ -678,55 +678,53 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  672. 100005826
  673. 100005827
  674. 100005830
- 675. 100005831
- 676. 100005832
- 677. 100005834
- 678. 100005835
- 679. 100005836
- 680. 100005837
- 681. 100005839 combined with 100005832
- 682. 100005840
- 683. 100005841
- 684. 100005842
- 685. 100005843
- 686. 100005844 combined with 100005834
- 687. 100005845
- 688. 100005846
- 689. 100005847
- 690. 100005848 combined with 100005037
- 691. 100005849 combined with 100005682
- 692. 100005851
- 693. 100005852 combined with 100004852
- 694. 100005853
- 695. 100005854
- 696. 100005855
- 697. 100005856
- 698. 100005857
- 699. 100005858
- 700. 100005859
- 701. 100005861
- 702. 100005862
- 703. 100005863
- 704. 100005864
- 705. 100005865 combined with 100005665
- 706. 100005866
- 707. 100005869
- 708. 100005870
- 709. 100005871
- 710. 100005872
- 711. 100005873
- 712. 100005874
- 713. 100005875
- 714. 100005876
- 715. 100005877
- 716. 100005878
- 717. 100005879
- 718. 100005880
- 719. 100005881 combined with 100004949
- 720. 100005882
- 721. 100005883
- 722. 100005884
- 723. 100005885 combined with 100005073
- 724. 100005886
- 725. 00001-MD
- 726. 100005887
+ 675. 100005832
+ 676. 100005834
+ 677. 100005835
+ 678. 100005836
+ 679. 100005837
+ 680. 100005839 combined with 100005832
+ 681. 100005840
+ 682. 100005841
+ 683. 100005842
+ 684. 100005843
+ 685. 100005844 combined with 100005834
+ 686. 100005845
+ 687. 100005846
+ 688. 100005848 combined with 100005037
+ 689. 100005849 combined with 100005682
+ 690. 100005851
+ 691. 100005852 combined with 100004852
+ 692. 100005853
+ 693. 100005854
+ 694. 100005855
+ 695. 100005856
+ 696. 100005857
+ 697. 100005858
+ 698. 100005859
+ 699. 100005861
+ 700. 100005862
+ 701. 100005863
+ 702. 100005864
+ 703. 100005865 combined with 100005665
+ 704. 100005866
+ 705. 100005869
+ 706. 100005870
+ 707. 100005871
+ 708. 100005872
+ 709. 100005873
+ 710. 100005874
+ 711. 100005876
+ 712. 100005877
+ 713. 100005878
+ 714. 100005879
+ 715. 100005880
+ 716. 100005881 combined with 100004949
+ 717. 100005882
+ 718. 100005883
+ 719. 100005884
+ 720. 100005885 combined with 100005073
+ 721. 100005886
+ 722. 00001-MD
+ 723. 100005887
+ 724. 100005888
