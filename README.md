@@ -2,13 +2,13 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on October 5, 2018 at 3:18 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on October 6, 2018 at 3:19 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004820
  2. 100004824
  3. 100004849
  4. 100004850
- 5. 100004854
+ 5. 100004854 combined with 100005950
  6. 100004855
  7. 100004856
  8. 100004857
@@ -738,16 +738,25 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  732. 100005942
  733. 100005943 combined with 100005536
  734. 100005947
- 735. 100005950 combined with 100004854
- 736. 100005953 combined with 100004854
- 737. 100005954 combined with 100004950
- 738. 100005956
- 739. 100005957
- 740. 100005958 combined with 100005913
- 741. 100005962 combined with 100004934
- 742. 100005968
- 743. 100005969
- 744. 100005970 combined with 100005855
- 745. 100005973
- 746. 100005974
- 747. 100005975
+ 735. 100005953 combined with 100004854
+ 736. 100005954 combined with 100004950
+ 737. 100005956
+ 738. 100005957
+ 739. 100005958 combined with 100005913
+ 740. 100005962 combined with 100004934
+ 741. 100005968
+ 742. 100005969
+ 743. 100005970 combined with 100005855
+ 744. 100005973
+ 745. 100005974
+ 746. 100005975
+ 747. 100005976
+ 748. 100005977
+ 749. 100005979
+ 750. 100005980
+ 751. 100005981
+ 752. 100005982
+ 753. 100005983
+ 754. 100005984 combined with 100005923
+ 755. 100005985
+ 756. 100005986
