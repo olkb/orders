@@ -2,7 +2,7 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on November 20, 2018 at 2:44 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on November 21, 2018 at 2:45 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004820
  2. 100004865
@@ -702,3 +702,10 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  696. 100006322
  697. 100006323
  698. 100006324
+ 699. 100006325
+ 700. 100006326
+ 701. 100006327
+ 702. 100006328
+ 703. 100006329
+ 704. 100006330
+ 705. 100006331
