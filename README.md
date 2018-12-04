@@ -2,7 +2,7 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on December 3, 2018 at 2:51 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on December 4, 2018 at 2:52 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004820
  2. 100004882 combined with 100004942, 100004668
@@ -733,7 +733,7 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  727. 100006370
  728. 100006371
  729. 100006372
- 730. RMA-MW
+ 730. 00001-RMA-MW
  731. 100006373
  732. 100006374
  733. 100006375
@@ -762,3 +762,11 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  756. 100006399
  757. 100006400
  758. 100006401
+ 759. 100006402
+ 760. 100006403
+ 761. 100006404
+ 762. 100006405
+ 763. 100006406
+ 764. 00002-CLUEBOARD
+ 765. 00001-KEEBIO
+ 766. 100006407
