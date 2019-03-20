@@ -2,7 +2,7 @@
 
 I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
 
-*This page was last generated on March 19, 2019 at 4:43 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on March 20, 2019 at 4:44 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100004965
  2. 100005176
@@ -607,46 +607,53 @@ I manage all of the shipping myself right now, and occasionally get help from a 
  601. 100006901
  602. 100006902
  603. 100006903
- 604. 100006904 combined with 100006572
- 605. 100006905
- 606. 100006906 combined with 100006830
- 607. 100006907
- 608. 100006909
- 609. 100006910
- 610. 100006911
- 611. 100006912
- 612. 100006913
- 613. 100006914
- 614. 100006915
- 615. 100006916 combined with 100006866
- 616. 100006917
- 617. 100006918
- 618. 100006919
- 619. 100006920
- 620. 100006921
- 621. 100006922
- 622. 100006923
- 623. 100006924
- 624. 100006925
- 625. 100006926
- 626. 100006927
- 627. 100006928
- 628. 100006929
- 629. 100006930
- 630. 100006931
- 631. 100006932
- 632. 100006933
- 633. 100006934
- 634. 100006935
- 635. 100006936
- 636. 100006937
- 637. 100006938
- 638. 100006939
- 639. 100006940
- 640. 100006941
- 641. 100006942
- 642. 100006943
- 643. 100006944
- 644. 100006945
- 645. 100006946
- 646. 100006947 combined with 100006760
+ 604. 100006905
+ 605. 100006906 combined with 100006830
+ 606. 100006907
+ 607. 100006909
+ 608. 100006910
+ 609. 100006911
+ 610. 100006912
+ 611. 100006913
+ 612. 100006914
+ 613. 100006915
+ 614. 100006916 combined with 100006866
+ 615. 100006917
+ 616. 100006918
+ 617. 100006919
+ 618. 100006920
+ 619. 100006921
+ 620. 100006922
+ 621. 100006923
+ 622. 100006924
+ 623. 100006925
+ 624. 100006926
+ 625. 100006927
+ 626. 100006928
+ 627. 100006929
+ 628. 100006930
+ 629. 100006931
+ 630. 100006932
+ 631. 100006933
+ 632. 100006934
+ 633. 100006935
+ 634. 100006936
+ 635. 100006937
+ 636. 100006938
+ 637. 100006939
+ 638. 100006940
+ 639. 100006941
+ 640. 100006942
+ 641. 100006943
+ 642. 100006944
+ 643. 100006945
+ 644. 100006946
+ 645. 100006947 combined with 100006760
+ 646. 100006948
+ 647. 100006949
+ 648. 100006950
+ 649. 100006951 combined with 100005518
+ 650. 100006952
+ 651. 100006953
+ 652. 100006954
+ 653. 100006955
