@@ -12,7 +12,7 @@
 		"dotenv": "6.0.0",
 		"sync-request": "6.0.0",
 		"fs": "0.0.1-security",
-  		"handlebars": ">=4.0.14"
+  		"handlebars": ">=4.0.14",
 		"handlebars-intl": "1.1.2"
 	}
 }
