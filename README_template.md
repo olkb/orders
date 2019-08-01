@@ -5,5 +5,5 @@ I manage all of the shipping myself right now, and occasionally get help from a 
 *This page was last generated on {{formatDate date day="numeric" month="long" year="numeric" timeZone="America/New_York"}} at {{formatDate date hour="numeric" minute="numeric" timeZone="America/New_York"}} EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
 {{#each orders}}
- {{math @index "+" 1}}. {{this.orderNumber}}{{combinedOrders this " combined with "}}
+ 1. {{this.orderNumber}}{{combinedOrders this " combined with "}}
 {{/each}}
