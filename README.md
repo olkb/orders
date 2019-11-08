@@ -4,7 +4,7 @@ I manage all of the shipping myself right now, and occasionally get help from a 
 
 Queue positions may increase as RMAs usually get placed at the front of the line.
 
-*This page was last generated on November 6, 2019 at 4:26 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on November 8, 2019 at 1:34 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100005551
  2. 100005625 combined with 100005916
@@ -126,3 +126,10 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  118. 100007880
  119. 100007886
  120. 100007889
+ 121. 100007890
+ 122. 100007891
+ 123. 100007892
+ 124. 100007893
+ 125. 100007894
+ 126. 100007895
+ 127. 100007896
