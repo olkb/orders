@@ -7,5 +7,5 @@ Queue positions may increase as RMAs usually get placed at the front of the line
 *This page was last generated on {{formatDate date day="numeric" month="long" year="numeric" timeZone="America/New_York"}} at {{formatDate date hour="numeric" minute="numeric" timeZone="America/New_York"}} EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
 {{#each orders}}
- {{math @index "+" 1}}. {{this.orderNumber}}{{combinedOrders this " combined with "}}
+ {{math @index "+" 1}}. {{this.orderNumber}}{{combinedOrders this " combined with "}}{{groupBuy this " contains a GB item"}}
 {{/each}}

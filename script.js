@@ -21,16 +21,28 @@ Handlebars.registerHelper("math", function(lvalue, operator, rvalue, options) {
 });
 
 Handlebars.registerHelper("combinedOrders", function(order, pretext, options) {
-	if (order.customerNotes) {
-		var res = order.customerNotes.match(/[0-9]{9}/g);
-		if (res) {
-			var orders = res.filter(function(item, pos) {
-			    return (res.indexOf(item) == pos) && (item != order.orderNumber);
-			})
-			return pretext + orders.join(", ");
-		}
-	}
-	return "";
+    if (order.customerNotes) {
+        var res = order.customerNotes.match(/[0-9]{9}/g);
+        if (res) {
+            var orders = res.filter(function(item, pos) {
+                return (res.indexOf(item) == pos) && (item != order.orderNumber);
+            })
+            return pretext + orders.join(", ");
+        }
+    }
+    return "";
+});
+
+Handlebars.registerHelper("groupBuy", function(order, pretext, options) {
+    if (order.items) {
+        var res = order.items.filter(function(item) {
+            return item.sku.match(/GB.*/g) || item.sku == "SQ6503229"; 
+        });
+        if (res.length) {
+            return pretext;
+        }
+    }
+    return "";
 });
 
 const file_template_source = fs.readFileSync('README_template.md', 'utf8');
