@@ -1,10 +1,10 @@
 # Order Status
 
-I manage all of the shipping myself right now, and occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship. If you see "combined with" with an order that still exists, this is still unmerged, and will be taken care of before shipping. Any orders that are displayed as ##########-1 were split off of the main order for some reason, and will be shipped separately.
+Shipping is managed by just two people, and we occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship.
 
 Queue positions may increase as RMAs usually get placed at the front of the line.
 
-*This page was last generated on December 11, 2019 at 11:45 PM EST and is updated daily. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last generated on December 13, 2019 at 19:14 GMT+1 and was updated manually. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100005551
  2. 100006014
@@ -50,7 +50,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  42. 100007794 contains a GB item
  43. 100007795 contains a GB item
  44. 100007796 contains a GB item
- 45. 100007797 combined with 100007818 contains a GB item
+ 45. 100007797 contains a GB item
  46. 100007798 contains a GB item
  47. 100007799 contains a GB item
  48. 100007800 contains a GB item
@@ -64,7 +64,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  56. 100007814 contains a GB item
  57. 100007815 contains a GB item
  58. 100007816 contains a GB item
- 59. 100007819 combined with 100008088 contains a GB item
+ 59. 100007819 contains a GB item
  60. 100007820 contains a GB item
  61. 100007822 contains a GB item
  62. 100007823 contains a GB item
@@ -79,7 +79,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  71. 100007837 contains a GB item
  72. 100007838 contains a GB item
  73. 100007839 contains a GB item
- 74. 100007840 combined with 100008108 contains a GB item
+ 74. 100007840 contains a GB item
  75. 100007841 contains a GB item
  76. 100007843 contains a GB item
  77. 100007844 contains a GB item
@@ -129,7 +129,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  121. 100007957
  122. 100007982
  123. 100007991
- 124. 100008005 combined with 100008083
+ 124. 100008005
  125. 100008007 contains a GB item
  126. 100008044 contains a GB item
  127. 100008057 contains a GB item
@@ -138,3 +138,10 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  130. 100008115
  131. 100008116
  132. 100008117
+ 133. 100008119
+ 134. 100008120
+ 135. 100008121 contains a GB item
+ 136. 100008122
+ 137. 100008123
+ 138. 100008124
+ 139. 100008125 contains a GB item
