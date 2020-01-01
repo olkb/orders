@@ -4,7 +4,7 @@ Shipping is managed by just two people, and we occasionally get help from a loca
 
 Queue positions may increase as RMAs usually get placed at the front of the line.
 
-*This page was last updated manually on December 28, 2019 at 11:54 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on January 2nd, 2020 (HAPPY NEW YEAR!) at 00:08 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100005551
  2. 100006014
@@ -191,3 +191,29 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  183. 100008202
  184. 100008203
  185. 100008204
+ 186. 100008205
+ 187. 100008206
+ 188. 100008207
+ 189. 100008208
+ 190. 100008209
+ 191. 100008210
+ 192. 100008212
+ 193. 100008214
+ 194. 100008215
+ 195. 100008216
+ 196. 100008217
+ 197. 100008218
+ 198. 100008219
+ 199. 100008220
+ 200. 100008221
+ 201. 100008222 contains a GB item
+ 202. 100008223
+ 203. 100008224 contains a GB item
+ 204. 100008225 contains a GB item
+ 205. 100008226 contains a GB item
+ 206. 100008227
+ 207. 100008228
+ 208. 100008229
+ 209. 100008230
+ 210. 100008231
+ 211. 100008232
