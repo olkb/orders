@@ -149,7 +149,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
  141. 100008294
  142. 100008295
  143. 100008296
- 144. 100008297
+ 144. 100008297 contains a GB item
  145. 100008298
  146. 100008299
  147. 100008300
