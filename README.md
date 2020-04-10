@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on April 1st, 2020 at 15:54 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on April 10th, 2020 at 15:29 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100005551 contains a backordered item
  2. 100006184 contains a backordered item
@@ -242,14 +242,13 @@ If you have any questions about this page or your order, please get in touch via
  229. 100008625 contains a GB item
  230. 100008626 contains a GB item
  231. 100008627 contains a GB item
- 232. 100008628
- 233. 100008635
- 234. 100008636
- 235. 100008637 contains a GB item
- 236. 100008638 contains a GB item
- 237. 100008639 contains a GB item
- 238. 100008641
- 239. 100008642 contains a GB item
- 240. 100008643
- 241. 100008644
- 242. 100008645
+ 232. 100008637 contains a GB item
+ 233. 100008638 contains a GB item
+ 234. 100008639 contains a GB item
+ 235. 100008642 contains a GB item
+ 236. 100008646 contains a GB item
+ 237. 100008649 contains a GB item
+ 238. 100008651 contains a GB item
+ 239. 100008654 contains a GB item
+ 240. 100008657 contains a GB item
+ 241. 100008658 contains a GB item
