@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on July 31st, 2020 at 17:16 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on August 5th, 2020 at 14:30 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a backordered item.
  2. 100007114 contains a backordered item.
@@ -19,165 +19,130 @@ If you have any questions about this page or your order, please get in touch via
  7. 100007342 contains a backordered item
  8. 100007814
  9. 100007819
- 10. 100007820
- 11. 100007896
- 12. 100007911
- 13. 100007982
- 14. 100007982-1 contains a backordered item
- 15. 100008126 contains a backordered item
- 16. 100008136 contains a backordered item
- 17. 100008295 contains a backordered item
- 18. 100008402-1
- 19. 100008489 contains a backordered item
- 20. 100008495 contains a backordered item
- 21. 100008507 contains a backordered item
- 22. 100008508 contains a backordered item
- 23. 100008509 contains a backordered item
- 24. 100008511 contains a backordered item
- 25. 100008513 contains a backordered item
- 26. 100008514 contains a backordered item
- 27. 100008518 contains a backordered item
- 28. 100008519 contains a backordered item
- 29. 100008522 contains a backordered item
- 30. 100008525 contains a GB item, contains a backordered item
- 31. 100008536 contains a backordered item
- 32. 100008541 contains a backordered item
- 33. 100008544 contains a GB item, contains a backordered item
- 34. 100008547 contains a backordered item
- 35. 100008552 contains a backordered item
- 36. 100008553 contains a backordered item
- 37. 100008554 contains a backordered item
- 38. 100008555 contains a backordered item
- 39. 100008556 contains a backordered item
- 40. 100008557 contains a backordered item
- 41. 100008559 contains a backordered item
- 42. 100008562 contains a backordered item
- 43. 100008567 contains a backordered item
- 44. 100008569 contains a backordered item
- 45. 100008570 contains a backordered item
- 46. 100008573 contains a backordered item
- 47. 100008574 contains a backordered item
- 48. 100008575 contains a backordered item
- 49. 100008577 contains a backordered item
- 50. 100008589 contains a backordered item
- 51. 100008591 contains a backordered item
- 52. 100008592
- 53. 200001006
- 54. 200001080
- 55. 200001096
- 56. 200001121
- 57. 200001135
- 58. 200001149
- 59. 200001150
- 60. 200001151
- 61. 200001152
- 62. 200001153
- 63. 200001155
- 64. 200001156
- 65. 200001157
- 66. 200001158
- 67. 200001159
- 68. 200001163
- 69. 200001166
- 70. 200001167
- 71. 200001168
- 72. 200001169
- 73. 200001171
- 74. 200001172
- 75. 200001174
- 76. 200001175
- 77. 200001176
- 78. 200001177
- 79. 200001178
- 80. 200001179
- 81. 200001180
- 82. 200001181
- 83. 200001182
- 84. 200001183
- 85. 200001184
- 86. 200001185
- 87. 200001188
- 88. 200001189
- 89. 200001190
- 90. 200001191
- 91. 200001192
- 92. 200001193
- 93. 200001194
- 94. 200001195
- 95. 200001196
- 96. 200001197
- 97. 200001198
- 98. 200001199
- 99. 200001200
- 100. 200001201
- 101. 200001202
- 102. 200001204
- 103. 200001205
- 104. 200001206
- 105. 200001207
- 106. 200001208
- 107. 200001209
- 108. 200001210
- 109. 200001211
- 110. 200001212
- 111. 200001213
- 112. 200001214
- 113. 200001215
- 114. 200001216
- 115. 200001217
- 116. 200001218
- 117. 200001219
- 118. 200001220
- 119. 200001221
- 120. 200001222
- 121. 200001224
- 122. 200001225
- 123. 200001227
- 124. 200001228
- 125. 200001229
- 126. 200001230
- 127. 200001231
- 128. 200001232
- 129. 200001233
- 130. 200001234
- 131. 200001235
- 132. 200001236
- 133. 200001237
- 134. 200001238
- 135. 200001239
- 136. 200001240
- 137. 200001241
- 138. 200001242
- 139. 200001243
- 140. 200001244
- 141. 200001245
- 142. 200001246
- 143. 200001247
- 144. 200001248
- 145. 200001249
- 146. 200001250
- 147. 200001251
- 148. 200001252
- 149. 200001253
- 150. 200001254
- 151. 200001255
- 152. 200001256
- 153. 200001257
- 154. 200001258
- 155. 200001259
- 156. 200001260
- 157. 200001261
- 158. 200001262
- 159. 200001263
- 160. 200001264
- 161. 200001265
- 162. 200001266
- 163. 200001267
- 164. 200001269
- 165. 200001270
- 166. 200001271
- 167. 200001272
- 168. 200001273
- 169. 200001274
- 170. 200001275
- 171. 200001276
+ 10. 100007896
+ 11. 100007982-1 contains a backordered item
+ 12. 100008126 contains a backordered item
+ 13. 100008136 contains a backordered item
+ 14. 100008295 contains a backordered item 
+ 15. 100008489 contains a backordered item 
+ 16. 100008495 contains a backordered item 
+ 17. 100008507 contains a backordered item 
+ 18. 100008508 contains a backordered item
+ 19. 100008509 contains a backordered item
+ 20. 100008511 contains a backordered item
+ 21. 100008513 contains a backordered item
+ 22. 100008514 contains a backordered item
+ 23. 100008518 contains a backordered item
+ 24. 100008519 contains a backordered item
+ 25. 100008522 contains a backordered item
+ 26. 100008525 contains a GB item, contains a backordered item
+ 27. 100008536 contains a backordered item
+ 28. 100008541 contains a backordered item
+ 29. 100008544 contains a GB item, contains a backordered item
+ 30. 100008547 contains a backordered item
+ 31. 100008552 contains a backordered item
+ 32. 100008553 contains a backordered item
+ 33. 100008554 contains a backordered item
+ 34. 100008555 contains a backordered item
+ 35. 100008556 contains a backordered item
+ 36. 100008557 contains a backordered item
+ 37. 100008559 contains a backordered item
+ 38. 100008562 contains a backordered item
+ 39. 100008567 contains a backordered item
+ 40. 100008569 contains a backordered item
+ 41. 100008570 contains a backordered item
+ 42. 100008573 contains a backordered item
+ 43. 100008574 contains a backordered item
+ 44. 100008575 contains a backordered item
+ 45. 100008577 contains a backordered item
+ 46. 100008589 contains a backordered item
+ 47. 100008591 contains a backordered item
+ 48. 100008592
+ 49. 200001096
+ 50. 200001121
+ 51. 200001178
+ 52. 200001181
+ 53. 200001182
+ 54. 200001184
+ 55. 200001190
+ 56. 200001205
+ 57. 200001208
+ 58. 200001209
+ 59. 200001210
+ 60. 200001211
+ 61. 200001212
+ 62. 200001213
+ 63. 200001214
+ 64. 200001215
+ 65. 200001216
+ 66. 200001217
+ 67. 200001218
+ 68. 200001219
+ 69. 200001220
+ 70. 200001221
+ 71. 200001222
+ 72. 200001224
+ 73. 200001225
+ 74. 200001227
+ 75. 200001228
+ 76. 200001229
+ 77. 200001230
+ 78. 200001231
+ 79. 200001232
+ 80. 200001233
+ 81. 200001234
+ 82. 200001235
+ 83. 200001236
+ 84. 200001237
+ 85. 200001238
+ 86. 200001239
+ 87. 200001240
+ 88. 200001241
+ 89. 200001242
+ 90. 200001243
+ 91. 200001244
+ 92. 200001245
+ 93. 200001246
+ 94. 200001247
+ 95. 200001248
+ 96. 200001249
+ 97. 200001250
+ 98. 200001251
+ 99. 200001252
+ 100. 200001253
+ 101. 200001254
+ 102. 200001255
+ 103. 200001256
+ 104. 200001257
+ 105. 200001258
+ 106. 200001259
+ 107. 200001260
+ 108. 200001261
+ 109. 200001262
+ 110. 200001263
+ 111. 200001264
+ 112. 200001265
+ 113. 200001266
+ 114. 200001267
+ 115. 200001269
+ 116. 200001270
+ 117. 200001271
+ 118. 200001272
+ 119. 200001273
+ 120. 200001274
+ 121. 200001275
+ 122. 200001276
+ 123. 200001277
+ 124. 200001278
+ 125. 200001279
+ 126. 200001280
+ 127. 200001281
+ 128. 200001282
+ 129. 200001283
+ 130. 200001284
+ 131. 200001285
+ 132. 200001286
+ 133. 200001288
+ 134. 200001289
+ 135. 200001290
+ 136. 200001291
