@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on August 26th, 2020 at 17:08 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on August 26th, 2020 at 17:10 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a backordered item.
  2. 100007114 contains a backordered item.
@@ -80,21 +80,20 @@ If you have any questions about this page or your order, please get in touch via
  68. 200001314
  69. 200001315
  70. 200001316
- 71. 200001317
- 72. 200001318
- 73. 200001319
- 74. 200001320
- 75. 200001321
- 76. 200001322
- 77. 200001323
- 78. 200001325
- 79. 200001326
- 80. 200001327
- 81. 200001328
- 82. 200001329
- 83. 200001330
- 84. 200001331
- 85. 200001332
- 86. 200001333
- 87. 200001334
- 88. 200001335
+ 71. 200001318
+ 72. 200001319
+ 73. 200001320
+ 74. 200001321
+ 75. 200001322
+ 76. 200001323
+ 77. 200001325
+ 78. 200001326
+ 79. 200001327
+ 80. 200001328
+ 81. 200001329
+ 82. 200001330
+ 83. 200001331
+ 84. 200001332
+ 85. 200001333
+ 86. 200001334
+ 87. 200001335
