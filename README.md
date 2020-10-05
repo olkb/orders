@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on October 4th, 2020 at 03:48 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on October 5th, 2020 at 14:34 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a GB item.
  2. 100007114 contains a GB item.
@@ -278,3 +278,12 @@ If you have any questions about this page or your order, please get in touch via
  266. 200001615 contains a GB item
  267. 200001616 contains a GB item
  268. 200001617 contains a GB item
+ 269. 200001618 contains a GB item
+ 270. 200001619 contains a GB item
+ 271. 200001620 contains a GB item
+ 272. 200001621
+ 273. 200001622 contains a GB item
+ 274. 200001623 contains a GB item
+ 275. 200001624 contains a GB item
+ 276. 200001625
+ 277. 200001626 contains a GB item
