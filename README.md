@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on October 12th, 2020 at 14:50 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on October 14th, 2020 at 13:57 GMT+2. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a GB item.
  2. 100007114 contains a GB item.
@@ -292,27 +292,35 @@ If you have any questions about this page or your order, please get in touch via
  280. 200001631
  281. 200001632 contains a GB item
  282. 200001633
- 283. 200001634 contains a GB item
- 284. 200001635
- 285. 200001636 contains a GB item
- 286. 200001637
- 287. 200001638 contains a GB item
- 288. 200001639 contains a GB item
- 289. 200001640
- 290. 200001641 contains a GB item
- 291. 200001642 contains a GB item
- 292. 200001643
- 293. 200001644 contains a GB item
- 294. 200001645 contains a GB item
- 295. 200001646
- 296. 200001647 contains a GB item
- 297. 200001648 contains a GB item
- 298. 200001649 contains a GB item
- 299. 200001650 contains a GB item
- 300. 200001652 contains a GB item
- 301. 200001653 contains a GB item
- 302. 200001654 contains a GB item
- 303. 200001655 contains a GB item
- 304. 200001656 contains a GB item
- 305. 200001657 contains a GB item
- 306. 200001658 contains a GB item
+ 283. 200001636 contains a GB item
+ 284. 200001637
+ 285. 200001638 contains a GB item
+ 286. 200001639 contains a GB item
+ 287. 200001640
+ 288. 200001641 contains a GB item
+ 289. 200001642 contains a GB item
+ 290. 200001643
+ 291. 200001644 contains a GB item
+ 292. 200001645 contains a GB item
+ 293. 200001646
+ 294. 200001647 contains a GB item
+ 295. 200001648 contains a GB item
+ 296. 200001649 contains a GB item
+ 297. 200001650 contains a GB item
+ 298. 200001652 contains a GB item
+ 299. 200001653 contains a GB item
+ 300. 200001654 contains a GB item
+ 301. 200001655 contains a GB item
+ 302. 200001656 contains a GB item
+ 303. 200001657 contains a GB item
+ 304. 200001658 contains a GB item
+ 305. 200001659 contains a GB item
+ 306. 200001660
+ 307. 200001661 contains a GB item
+ 308. 200001662 contains a GB item
+ 309. 200001663 contains a GB item
+ 310. 200001664
+ 311. 200001665 contains a GB item
+ 312. 200001666 contains a GB item
+ 313. 200001667
+ 314. 200001668 contains a GB item
