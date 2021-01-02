@@ -317,7 +317,7 @@ If you have any questions about this page or your order, please get in touch via
  305. 200001799
  306. 200001800
  307. 200001801
- 308. 200001803
+ 308. 200001803 contains a GB item
  309. 200001804
  310. 200001805
  311. 200001806
