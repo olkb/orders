@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on January 7th, 2021 at 11:32 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on January 16th, 2021 at 02:11 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a GB item.
  2. 100007114 contains a GB item.
@@ -296,46 +296,27 @@ If you have any questions about this page or your order, please get in touch via
  284. 100005341 contains a GB item
  285. 100005302 contains a GB item
  286. 200001740 contains a GB item
- 287. 200001762
- 288. 200001763
- 289. 200001783
- 290. 200001784
- 291. 200001785
- 292. 200001787
- 293. 200001788
- 294. 200001790
- 295. 200001791
- 296. 200001792
- 297. 200001793
- 298. 100006979
- 299. 200001794
- 300. 200001795
- 301. 200001796
- 302. 200001797
- 303. 200001798
- 304. 200001799
- 305. 200001800
- 306. 200001801
- 307. 200001803 contains a GB item
- 308. 200001804
- 309. 200001805
- 310. 200001806
- 311. 200001807
- 312. 200001808
- 313. 200001809
- 314. 200001810
- 315. 200001811
- 316. 200001812
- 317. 200001814
- 318. 200001815
- 319. 200001816
- 320. 200001817
- 321. 200001818
- 322. 200001819
- 323. 200001820
- 324. 200001821
- 325. 200001822
- 326. 200001823
- 327. 200001824
- 328. 200001825 contains a GB item
- 329. 200001826
+ 287. 200001793
+ 288. 100006979
+ 289. 200001798
+ 290. 200001803 contains a GB item
+ 291. 200001808
+ 292. 200001810
+ 293. 200001818
+ 294. 200001821
+ 295. 200001822
+ 296. 200001823
+ 297. 200001824
+ 298. 200001825 contains a GB item
+ 299. 200001826
+ 300. 200001827
+ 301. 200001828
+ 302. 200001829
+ 303. 200001830
+ 304. 200001831
+ 305. 200001832
+ 306. 200001833
+ 307. 200001834
+ 308. 200001835
+ 309. 200001836
+ 310. 200001837
