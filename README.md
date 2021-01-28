@@ -8,7 +8,7 @@ We have recently run into an inventory issue regarding the Planck rev6.1 PCB tha
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on January 22nd, 2021 at 17:54 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on January 28nd, 2021 at 2:34 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a GB item.
  2. 100007114 contains a GB item.
@@ -295,41 +295,22 @@ If you have any questions about this page or your order, please get in touch via
  283. 100005341 contains a GB item
  284. 100005302 contains a GB item
  285. 200001740 contains a GB item
- 286. 200001793
- 287. 100006979
- 288. 200001798
- 289. 200001803 contains a GB item
- 290. 200001808
- 291. 200001810
- 292. 200001818
- 293. 200001821
- 294. 200001822
- 295. 200001823
- 296. 200001824
- 297. 200001825 contains a GB item
- 298. 200001826
- 299. 200001827
- 300. 200001828
- 301. 200001829
- 302. 200001830
- 303. 200001831
- 304. 200001832
- 305. 200001833
- 306. 200001834
- 307. 200001835
- 308. 200001836
- 309. 200001837
- 310. 200001838
- 311. 200001839
- 312. 200001840
- 313. 200001841 contains a GB item
- 314. 200001842
- 315. 200001843 contains a GB item
- 316. 200001844
- 317. 200001845
- 318. 200001846
- 319. 200001847
- 320. 200001848
- 321. 200001849
- 322. 200001850
- 323. 200001851
+ 286. 100006979 contains a GB item
+ 287. 200001803 contains a GB item
+ 288. 200001808
+ 289. 200001810
+ 290. 200001818
+ 291. 200001825 contains a GB item
+ 292. 200001837
+ 293. 200001841 contains a GB item
+ 294. 200001842
+ 295. 200001843 contains a GB item
+ 296. 200001847
+ 297. 200001848
+ 298. 200001849
+ 299. 200001850
+ 300. 200001851
+ 301. 200001852
+ 302. 200001853
+ 303. 200001854
+ 304. 200001855
