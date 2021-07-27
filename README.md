@@ -1,6 +1,6 @@
 # Order Status
 
-Shipping is managed by just two people, and we occasionally get help from a local shop that does larger scale fulfillment. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship.
+Shipping is managed by just two people. Below is a list of the current shipping queue that gets fulfilled in order (oldest first) as the parts become available to ship.
 
 Queue positions may increase as RMAs usually get placed at the front of the line.
 
