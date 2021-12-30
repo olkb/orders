@@ -6,7 +6,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on December 29th, 2021 at 19:00 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on December 30th, 2021 at 10:42 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
 Happy Holidays!
 
@@ -135,3 +135,5 @@ Happy Holidays!
  123. 200002341
  124. 200002342
  125. 200002343
+ 126. 200002344
+ 127. 200002345
