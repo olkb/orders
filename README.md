@@ -6,7 +6,7 @@ Queue positions may increase as RMAs usually get placed at the front of the line
 
 If you have any questions about this page or your order, please get in touch via help@olkb.com
 
-*This page was last updated manually on January 11th, 2022 at 14:24 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
+*This page was last updated manually on January 13th, 2022 at 16:11 GMT+1. The Github repo for this page is available here: [https://github.com/olkb/orders](https://github.com/olkb/orders)*
 
  1. 100006038 contains a GB item.
  2. 100007114 contains a GB item.
@@ -134,11 +134,13 @@ If you have any questions about this page or your order, please get in touch via
  124. 200002344
  125. 200002345
  126. 200002346
- 127. 200002347
- 128. 200002348
- 129. 200002349
- 130. 200002350
- 131. 200002351
- 132. 200002352
- 133. 200002353
- 134. 200002554
+ 127. 200002348
+ 128. 200002349
+ 129. 200002350
+ 130. 200002351
+ 131. 200002352
+ 132. 200002353
+ 133. 200002354
+ 134. 200002355
+ 135. 200002356
+ 136. 200002357
